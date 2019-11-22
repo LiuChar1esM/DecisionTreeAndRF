@@ -1,5 +1,5 @@
-#  Implementation decision tree and random forest
+#  Implementation Decision Tree and Random Forest
 
-# Decision tree:regression,logistics
+# Decision tree:Regression,Logistics Regression
 
 by: Charles Liu
